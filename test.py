@@ -1,0 +1,1 @@
+print("hello vs code \nthis is my 1st code in vs code \nthat I want to push in git")
